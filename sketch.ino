@@ -18,8 +18,6 @@ ezButton button5(26);
 
 int vote1 = 0, vote2 = 0, vote3 = 0, vote4 = 0;
 
-int voting_completed = 0;
-
 void setup()
 {
   Serial.begin(9600);
