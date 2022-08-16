@@ -71,6 +71,7 @@ void loop() {
     oled.setCursor(2, 48);       // set position to display
     oled.println("D - Orange");
     oled.display();
+    flag=1;
     
   }
 
